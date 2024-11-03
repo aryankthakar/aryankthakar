@@ -1,5 +1,5 @@
 # 💫 About Me:
-Designing an interview protocol for creating a more diverse interview dataset for people with disabilities. <br>Software projects and machine learning research regarding diversity, equity, and inclusion. <br>Finding opportunities for Software Engineering Internships and Research Fellowships. <br>Algorithms and Organization of Programming Languages. <br>Ask me anything. 
+I'm currently working on designing an interview protocol for creating a more diverse interview dataset for people with disabilities. <br>I'm looking to collaborate on software projects and machine learning research regarding diversity, equity, and inclusion. <br>I'm looking for help with finding opportunities for Software Engineering Internships and Research Fellowships. <br>I'm currently learning about Algorithms and Organization of Programming Languages. <br>Ask me anything. Would love to connect. 
 
 
 ## 🌐 Socials:
